@@ -1,0 +1,33 @@
+html {
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+}
+
+body{
+	background: url(background.jpg)
+	no-repeat center center fixed;
+
+}
+div{
+width: 90%;
+height: 1200px;
+margin: 0 auto;
+padding: 12px;
+border: 1px solid white;
+background: rgba(95,79,50,0.3);
+
+}
+h1{
+	color: #D9BFA9;
+
+}
+
+p{
+	color: #D9BFA9;
+
+}
+
+img{
+
+}
